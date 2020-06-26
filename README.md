@@ -5,7 +5,6 @@ Useful for keep computers from going to screensaver or sleep mode (especially wh
 ## Installation
 1) Download "do-not-sleep.exe" and run it
 2) To automatically run when Window's starts,  
-
         2.1) Press "Windows Key + R"  
         2.2) Type "shell:startup" (without quotes)  
         2.3) Move "do-not-sleep.exe" to the folder  
