@@ -3,7 +3,7 @@ Extremely simple python program that moves your mouse every minute.
 Useful for keep computers from going to screensaver or sleep mode (especially when organization policy prevents changes to power settings)
 
 ## Installation
-1) Download "do-not-sleep.exe" <a href="https://github.com/Qibbles/do-not-sleep/releases/tag/v1.0">here</a> and run it
+1) Download "do-not-sleep.exe" <a href="https://github.com/Qibbles/do-not-sleep/releases">here</a> and run it
 2) To automatically run when Window's starts,  
         2.1) Press "Windows Key + R"  
         2.2) Type "shell:startup" (without quotes)  
