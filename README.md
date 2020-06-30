@@ -1,4 +1,4 @@
-Extremely simple python program that moves your mouse every minute.
+Extremely simple python program that prevents your Windows computer from sleeping.
 
 Useful for keep computers from going to screensaver or sleep mode (especially when organization policy prevents changes to power settings)
 
